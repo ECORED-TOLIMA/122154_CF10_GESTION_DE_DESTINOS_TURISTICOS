@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") A continuación, se describe un enfoque general del componente formativo, el cual aborda los conceptos esenciales del impacto del turismo, plan de acción, indicadores, problemas y oportunidades identificadas. Este componente, analiza los diferentes impactos del turismo, el plan de acción y cómo estos factores influyen en los indicadores; además, evalúa sobre las estrategias del posicionamiento de la oferta turística en el medio, en los niveles económico, sociocultural y ambiental, garantizando el desarrollo sostenible de los destinos turísticos, al preservar la identidad cultural y el entorno natural: 
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
