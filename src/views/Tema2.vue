@@ -132,14 +132,14 @@
         h2 2.1 Implementación de estrategias
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-        .col-lg-9
+        .col-lg-9.col-12.order-lg-1.order-2 
           p El sector turístico, es un vehículo excelente en el desarrollo sostenible y prosperidad para los países en vías de desarrollo; por lo tanto, es de especial consideración la planeación e implementación de estrategias que les permita prepararse y anticiparse, ante estos escenarios de gran trascendencia su subsistencia. 
           p Una correcta planeación e implementación estratégica, le permite descubrir y aprovechar nuevas oportunidades que se presenten en el entorno y mitigar posibles impactos negativos en un corto, mediano y largo plazo.
           p Una estrategia, más que generar oportunidades, debe tener la capacidad, adaptabilidad y resiliencia para convertir desafíos en oportunidades de gran potencial para el desarrollo económico, social y medioambiental de cualquier destino. 
           p Se deben identificar posibles líneas estratégicas que les permitan encauzar el comportamiento de todos los miembros de la organización, hacia un horizonte y visión compartida, con el fin de que puedan competir dentro de un entorno altamente competitivo, cambiante y digital.
           p Durante el proceso de planeación estratégica, es necesario desarrollar, las siguientes fases:
 
-        .col-lg-3.col-10.mb-lg-0.mb-4
+        .col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema2/img-03.png', alt='Texto que describa la imagen')
 

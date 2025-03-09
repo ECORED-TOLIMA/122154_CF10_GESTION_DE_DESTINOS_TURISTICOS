@@ -25,7 +25,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4(style="background-color:#FFE9DF")
-          p.mb-0 Conociendo el anterior contexto, es importante que acceda al siguiente video, el cual explica la temática a tratar durante este componente formativo:
+          p.mb-0 Teniendo en cuenta el contexto mencionado, se recomienda acceder al siguiente video, el cual explica la temática a tratar en este componente formativo:
 
     figure.mb-5(data-aos="zoom-in")
       .video

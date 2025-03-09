@@ -101,24 +101,32 @@
 
     .row.justify-content-center.mb-5
       .col-md-12.desktop(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 5. ] #[i Resultados generales para los municipios con mayor ICTRC 2018 ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v05-01.svg', alt='Figura que contiene una gráfica estadística sobre los municipios con mayor ICTRC en el año 2018.')
+          img(src='@/assets/curso/temas/tema3/img-v05-01.svg', alt='Figura 5 que contiene una gráfica estadística sobre los municipios con mayor ICTRC en el año 2018.')
           figcaption Nota. Tomado del Centro de pensamiento turístico de Colombia (2018)
 
       .col-md-6.movil(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 5. ] #[i Resultados generales para los municipios con mayor ICTRC 2018 ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v05-02.svg', alt='Figura que contiene una gráfica estadística sobre los municipios con mayor ICTRC en el año 2018. ')
+          img(src='@/assets/curso/temas/tema3/img-v05-02.svg', alt='Figura 5 que contiene una gráfica estadística sobre los municipios con mayor ICTRC en el año 2018. ')
           figcaption Nota. Tomado del Centro de pensamiento turístico de Colombia (2018)
-
+    
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 6. ] #[i Resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal año 2018 ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v06-01.svg', alt='Figura que contiene una gráfica estadística sobre el ICTRC por criterios de evaluación para Santa Rosa de Cabal en el año 2018.')
+          img(src='@/assets/curso/temas/tema3/img-v06-01.svg', alt='Figura 6 que contiene una gráfica estadística sobre el ICTRC por criterios de evaluación para Santa Rosa de Cabal en el año 2018.')
           figcaption Nota. Tomado del Centro de pensamiento turístico de Colombia (2018)
 
       .col-md-6.movil(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 6. ] #[i Resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal año 2018 ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v06-02.svg', alt='Figura que contiene una gráfica estadística sobre el ICTRC por criterios de evaluación para Santa Rosa de Cabal en el año 2018.')
+          img(src='@/assets/curso/temas/tema3/img-v06-02.svg', alt='Figura 6 que contiene una gráfica estadística sobre el ICTRC por criterios de evaluación para Santa Rosa de Cabal en el año 2018.')
           figcaption Nota. Tomado del Centro de pensamiento turístico de Colombia (2018)
 
     p.mb-5(data-aos="fade-right") Este resultado general del indicador, se obtiene a partir de la ponderación de los resultados de seis criterios de medición, los cuales se subdividen en un conjunto de variables que son medidas, a través de la recolección de información primaria y secundaria en cada uno de los municipios. 
@@ -139,33 +147,33 @@
     
     p.mb-5(data-aos="fade-right") El PIT de Santa Rosa de Cabal dio del flujo de turistas que llegaron en 2018, representado así:
 
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
-      h5 Figura 5.
-      span  #[i Número de turistas que visitan el PIT ]
-
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 7. ] #[i Número de turistas que visitan el PIT ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v07-01.svg', alt='Figura 5 que contiene una gráfica estadística sobre el número de turistas que visitan el PIT de Santa Rosa de Cabal.')
+          img(src='@/assets/curso/temas/tema3/img-v07-01.svg', alt='Figura 7 que contiene una gráfica estadística sobre el número de turistas que visitan el PIT de Santa Rosa de Cabal.')
           
       .col-md-6.movil(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 7. ] #[i Número de turistas que visitan el PIT ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v07-02.svg', alt='Figura 5 que contiene una gráfica estadística sobre el número de turistas que visitan el PIT de Santa Rosa de Cabal.')
+          img(src='@/assets/curso/temas/tema3/img-v07-02.svg', alt='Figura 7 que contiene una gráfica estadística sobre el número de turistas que visitan el PIT de Santa Rosa de Cabal.')
           
     p.mb-5(data-aos="fade-right") Según datos del PIT, cada año se incrementa el número de turistas y visitantes, preguntando por el alojamiento, recursos y atractivos turísticos, que se presentan en Santa Rosa de Cabal, como los diferentes termales, de allí el comparativo de turistas año a año, así:
 
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
-      h5 Figura 6.
-      span  #[i Comparativo de turistas que visitan el PIT por mes y año ]
-
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 8. ] #[i Comparativo de turistas que visitan el PIT por mes y año ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v08-01.svg', alt='Figura 6 que contiene una gráfica comparativa de turistas que visitan el PIT por mes y año en Santa Rosa de Cabal.')
+          img(src='@/assets/curso/temas/tema3/img-v08-01.svg', alt='Figura 8 que contiene una gráfica comparativa de turistas que visitan el PIT por mes y año en Santa Rosa de Cabal.')
 
       .col-md-6.movil(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 8. ] #[i Comparativo de turistas que visitan el PIT por mes y año ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v08-02.svg', alt='Figura 6 que contiene una gráfica comparativa de turistas que visitan el PIT por mes y año en Santa Rosa de Cabal.')
+          img(src='@/assets/curso/temas/tema3/img-v08-02.svg', alt='Figura 8 que contiene una gráfica comparativa de turistas que visitan el PIT por mes y año en Santa Rosa de Cabal.')
 
     p.mb-5(data-aos="fade-right") De igual manera, se obtienen los siguientes resultados especificados por mes y año:
 
@@ -193,96 +201,104 @@
           tr(data-aos="fade-right")
             td 2015
             td 1005
-            td 1005
-            td 1005
-            td 1005
-            td 1005
-            td 1005
-            td 1005
-            td 1005
-            td 1005
-            td 1005
-            td 1005
-            td 1005
+            td 302
+            td 336
+            td 870
+            td 616
+            td 914
+            td 878
+            td 1027
+            td 548
+            td 769
+            td 623
+            td 737
           tr(data-aos="fade-right")
             td 2016
             td 1653
-            td 1653
-            td 1653
-            td 1653
-            td 1653
-            td 1653
-            td 1653
-            td 1653
-            td 1653
-            td 1653
-            td 1653
-            td 1653
+            td 517
+            td 1271
+            td 302
+            td 722
+            td 703
+            td 853
+            td 619
+            td 406
+            td 569
+            td 393
+            td 595
           tr(data-aos="fade-right")
             td 2017
             td 1156
-            td 1156
-            td 1156
-            td 1156
-            td 1156
-            td 1156
-            td 1156
-            td 1156
-            td 1156
-            td 1156
-            td 1156
-            td 1156
+            td 362
+            td 83
+            td 1403
+            td 1489
+            td 1390
+            td 1965
+            td 1289
+            td 534
+            td 1275
+            td 782
+            td 878
           tr(data-aos="fade-right")
             td 2018
             td 1968
-            td 1968
-            td 1968
-            td 1968
-            td 1968
-            td 1968
-            td 1968
-            td 1968
-            td 1968
-            td 1968
-            td 1968
-            td 1968
+            td 583
+            td 1191
+            td 804
+            td 878
+            td 1516
+            td 2286
+            td 1598
+            td 883
+            td 1834
+            td 1374
+            td 1502
           
     p.mb-5 Según información del PIT en el año 2018, el mayor porcentaje de personas que visitaron a Santa Rosa de Cabal, son de procedencia nacional 91,6 % (15.040) y el restante 8,4 % (1.377) a personas de procedencia extranjera. Un incremento a relación del año anterior de un 26 %. En las gráficas se puede observar la procedencia de visitantes nacionales y extranjeros:
 
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 9. ] #[i Procedencia de los turistas nacionales (Mayor a 100 personas) ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v09-01.svg', alt='Figura que contiene una gráfica de los departamentos de procedencia de los turistas nacionales, los cuales son mayor a 100 personas.')
+          img(src='@/assets/curso/temas/tema3/img-v09-01.svg', alt='Figura 9 que contiene una gráfica de los departamentos de procedencia de los turistas nacionales, los cuales son mayor a 100 personas.')
 
       .col-md-6.movil(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 9. ] #[i Procedencia de los turistas nacionales (Mayor a 100 personas) ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v09-02.svg', alt='Figura que contiene una gráfica de los departamentos de procedencia de los turistas nacionales, los cuales son mayor a 100 personas.')
+          img(src='@/assets/curso/temas/tema3/img-v09-02.svg', alt='Figura 9 que contiene una gráfica de los departamentos de procedencia de los turistas nacionales, los cuales son mayor a 100 personas.')
 
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 10. ] #[i Procedencia de los turistas extranjeros (Mayor a 10 personas) ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v10-01.svg', alt='Figura que contiene una gráfica que relaciona la procedencia de los turistas internacionales, los cuales son mayor a 100 personas.')
+          img(src='@/assets/curso/temas/tema3/img-v10-01.svg', alt='Figura 10 que contiene una gráfica que relaciona la procedencia de los turistas internacionales, los cuales son mayor a 100 personas.')
 
       .col-md-6.movil(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 10. ] #[i Procedencia de los turistas extranjeros (Mayor a 10 personas) ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v10-02.svg', alt='Figura que contiene una gráfica que relaciona la procedencia de los turistas internacionales, los cuales son mayor a 100 personas.')
+          img(src='@/assets/curso/temas/tema3/img-v10-02.svg', alt='Figura 10 que contiene una gráfica que relaciona la procedencia de los turistas internacionales, los cuales son mayor a 100 personas.')
 
     p(data-aos="fade-right") De las 2739 personas que realizaron su registro en el PIT en el año 2018, el 45,6 % (1250) fue por las aguas termales del municipio; el 23,7 % (648) por gastronomía y el 19,8 % (541) por el ecoturismo. 
     p(data-aos="fade-right") El tema principal que buscan los turistas como actividades es el termalismo, con un incremento en relación al año anterior del 25,5 % y los incrementos en lo relacionado con gastronomía y ecoturismo, se ubica en un 18 % aproximadamente.
-    p.mb-5(data-aos="fade-right") Lo anterior se relaciona en la siguiente gráfica:
-
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
-      h5 Figura 7.
-      span  #[i Atractivo que buscan los turistas y visitantes ]
+    p.mb-5(data-aos="fade-right") Lo anterior se relaciona en la siguiente figura:
 
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 11. ] #[i Atractivo que buscan los turistas y visitantes ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v11-01.svg', alt='Figura 7 que contiene una gráfica estadística, la cual relaciona los tipos de atractivos que buscan los turistas y visitantes en Santa Rosa de Cabal.')
+          img(src='@/assets/curso/temas/tema3/img-v11-01.svg', alt='Figura 11 que contiene una gráfica estadística, la cual relaciona los tipos de atractivos que buscan los turistas y visitantes en Santa Rosa de Cabal.')
 
       .col-md-6.movil(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 11. ] #[i Atractivo que buscan los turistas y visitantes ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v11-02.svg', alt='Figura 7 que contiene una gráfica estadística, la cual relaciona los tipos de atractivos que buscan los turistas y visitantes en Santa Rosa de Cabal.')
+          img(src='@/assets/curso/temas/tema3/img-v11-02.svg', alt='Figura 11 que contiene una gráfica estadística, la cual relaciona los tipos de atractivos que buscan los turistas y visitantes en Santa Rosa de Cabal.')
 
     .titulo1.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
@@ -290,18 +306,18 @@
 
     p.mb-5(data-aos="fade-right") En el año 2020 Santa Rosa de Cabal reafirmó su posición como el destino turístico, tras los resultados del Índice de Competitividad Turística Regional de Colombia ICTRC, donde el municipio ocupó el tercer lugar. De igual forma, Santa Rosa de Cabal se destaca como el municipio más competitivo del Paisaje Cultural Cafetero. Lo anterior se refleja a continuación:
 
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
-      h5 Figura 8.
-      span  #[i Resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal 2019-2020 ]
-
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 12. ] #[i Atractivo que buscan los turistas y visitantes ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v12-01.svg', alt='Figura 8 que contiene una gráfica estadística, la cual relaciona un resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal entre los años 2019-2020.')
+          img(src='@/assets/curso/temas/tema3/img-v12-01.svg', alt='Figura 12 que contiene una gráfica estadística, la cual relaciona un resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal entre los años 2019-2020.')
 
       .col-md-6.movil(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 12. ] #[i Atractivo que buscan los turistas y visitantes ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v12-02.svg', alt='Figura 8 que contiene una gráfica estadística, la cual relaciona un resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal entre los años 2019-2020.')
+          img(src='@/assets/curso/temas/tema3/img-v12-02.svg', alt='Figura 12 que contiene una gráfica estadística, la cual relaciona un resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal entre los años 2019-2020.')
 
     p.mb-5(data-aos="fade-right") Se establece que el municipio avanzó significativamente en el componente cultural, con un incremento del 0,99 %, debido a la variedad de eventos y en la gastronomía tradicional en 2,99 puntos. Las estrategias de mercadeo, crecieron a nivel general en 0,4 puntos; soportadas por el crecimiento de las categorías en apoyo técnico al diseño de productos turísticos, participación en ferias internacionales especializadas en turismo, componente ambiental, apoyo técnico a la oferta de productos de naturaleza y denuncias ambientales.
 
@@ -330,26 +346,26 @@
                 td 2016
                 td 79
               tr(data-aos="fade-right")
-                td 1156
-                td 1156
+                td 2017
+                td 104
               tr(data-aos="fade-right")
-                td 1968
-                td 1968
+                td 2018
+                td 114
               tr(data-aos="fade-right")
-                td 1005
-                td 1005
+                td 2019
+                td 117
               tr(data-aos="fade-right")
-                td 1653
-                td 1653
+                td 2020
+                td 90
               tr(data-aos="fade-right")
-                td 1156
-                td 1156
+                td 2021
+                td 115
               tr(data-aos="fade-right")
-                td 1968
-                td 1968
+                td 2022
+                td 112
               tr(data-aos="fade-right")
-                td 1968
-                td 1968
+                td 2023
+                td 119
 
     p.mb-5(data-aos="fade-right") En términos generales, se puede establecer que al 2023, las empresas turísticas representan el 22,6 % sobre el total personas naturales y el 7,7% sobre las personas jurídicas. Obteniendo los siguientes resultados:
 
@@ -375,33 +391,33 @@
                 td 368
                 td 12
               tr(data-aos="fade-right")
-                td 1156
-                td 1156
-                td 1156
+                td 2017
+                td 410
+                td 13
               tr(data-aos="fade-right")
-                td 1968
-                td 1968
-                td 1968
+                td 2018
+                td 442
+                td 13
               tr(data-aos="fade-right")
-                td 1005
-                td 1005
-                td 1005
+                td 2019
+                td 477
+                td 14
               tr(data-aos="fade-right")
-                td 1653
-                td 1653
-                td 1653
+                td 2020
+                td 478
+                td 14
               tr(data-aos="fade-right")
-                td 1156
-                td 1156
-                td 1156
+                td 2021
+                td 501
+                td 19
               tr(data-aos="fade-right")
-                td 1968
-                td 1968
-                td 1968
+                td 2022
+                td 496
+                td 30
               tr(data-aos="fade-right")
-                td 1968
-                td 1968
-                td 1968
+                td 2023
+                td N/A
+                td N/A
 
     .titulo1.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')

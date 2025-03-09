@@ -150,7 +150,7 @@
         h4.text-center Establecer alianzas entre los sectores público, privado y la sociedad civil 
         .row.justify-content-center.p-4(titulo=" ")
           .col-lg-10.order-lg-1.order-2
-            p Se debe gestionar el turismo de manera integral. A través de la medición de impactos, se puede generar un diálogo entre estos sectores, para promover un desarrollo turístico más equitativo, inclusivo y sostenible.n
+            p Se debe gestionar el turismo de manera integral. A través de la medición de impactos, se puede generar un diálogo entre estos sectores, para promover un desarrollo turístico más equitativo, inclusivo y sostenible.
 
 
 

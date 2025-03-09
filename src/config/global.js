@@ -175,7 +175,7 @@ export default {
     {
       tema: '4.2. Métodos de medición del impacto',
       referencia:
-        'CAF -banco de desarrollo de Latam y el Caribe-. (2015). ¿Qué es la medición de impacto? [Video] YouTube.',
+        'CAF -Banco de Desarrollo de Latam y el Caribe-. (2015). ¿Qué es la medición de impacto? [Video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=wDDUKp0o6Ms',
     },

@@ -41,10 +41,10 @@
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
             | #[b Generación de ingresos ]
             br
-            | Evalúa cómo las estrategias de marketing y ventas, aumentan los ingresos por turismo.
+            | Evalúa cómo las estrategias de #[i marketing] y ventas, aumentan los ingresos por turismo.
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            | #[b Generación de ingresos ]
+            | #[b Empleo ]
             br
             | Analiza la creación de empleo local y su relación con el crecimiento del producto turístico.
           li(data-aos="fade-down")
@@ -151,7 +151,7 @@
         h4.text-center #[i Software] de análisis de datos
         .row.justify-content-center.p-4(titulo=" ")
           .col-lg-10.order-lg-1.order-2
-            p Se encuentran herramientas como Google Analytics, Tableau o software especializado en turismo.
+            p Se encuentran herramientas como Google Analytics, Tableau o #[i software] especializado en turismo.
 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
@@ -171,7 +171,7 @@
     p.mb-5(data-aos="fade-right") Para finalizar el tema, se ejemplifican las estrategias y su impacto, logrando interpretar de esta manera, acciones reales que se llevan en el accionar turístico: 
 
     TabsC.color-acento-botones.mb-5(data-aos="flip-up")
-      .py-3.py-md-4(titulo="Estrategias de marketing digital")
+      .py-3.py-md-4(titulo="Estrategias de <em>marketing</em> digital")
         .row.justify-content-center.p-4
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
