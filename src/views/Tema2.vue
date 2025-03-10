@@ -19,7 +19,6 @@
             .col-lg-10
               .h4 Objetivos
               p.mb-1 ¿Qué se quiere lograr? Estos deben ser claros, medibles y alcanzables.
-
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-left")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -28,7 +27,6 @@
             .col-lg-10
               .h4 Identificación de actores clave
               p.mb-1 Involucrar a comunidades locales, empresas y gobiernos para obtener una perspectiva integral.
-
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-right")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -37,7 +35,6 @@
             .col-lg-10
               .h4 Desarrollo de una metodología
               p.mb-1 Seleccionar herramientas y técnicas para recolectar datos relevantes.
-
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-left")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -46,7 +43,6 @@
             .col-lg-10
               .h4 Estrategias
               p.mb-1 Definición de las acciones que se llevarán a cabo para alcanzar los objetivos.
-
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-right")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -55,7 +51,6 @@
             .col-lg-10
               .h4 Implementación
               p.mb-1 Llevar a cabo la medición y el análisis de los datos recolectados.
-      
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-left")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -64,7 +59,6 @@
             .col-lg-10
               .h4 Análisis de la situación
               p.mb-1 Evaluación del estado actual del destino, incluyendo fortalezas, debilidades, oportunidades y amenazas (FODA).
-      
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-right")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -73,7 +67,6 @@
             .col-lg-10
               .h4 Recursos
               p.mb-1 Identificación de los recursos financieros, humanos y materiales necesarios.
-      
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-left")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -82,7 +75,6 @@
             .col-lg-10
               .h4 Cronograma
               p.mb-1 Establecimiento de un calendario con fechas límite para cada acción.
-      
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-right")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -91,7 +83,6 @@
             .col-lg-10
               .h4 Responsables
               p.mb-1 Asignación de tareas específicas a individuos o equipos.
-      
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-left")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -100,7 +91,6 @@
             .col-lg-10
               .h4 Evaluación y ajuste
               p.mb-1 Analizar los resultados y ajustar el plan según sea necesario para mejorar la sostenibilidad.
-
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-right")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -117,11 +107,11 @@
       span  #[i Pasos para un plan de acción ]
     
     .row.justify-content-center.mb-4
-      .col-md-10.desktop(data-aos="zoom-in")
+      .col-lg-10.desktop(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema2/img-v01.svg', alt='Figura 1 que relaciona un esquema, el cual explica cómo se puede elaborar un plan de acción, indicando pasos muy puntuales.')
 
-      .col-md-6.movil(data-aos="zoom-in")
+      .col-lg-6.movil(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema2/img-v02.svg', alt='Figura 1 que relaciona un esquema, el cual explica cómo se puede elaborar un plan de acción, indicando pasos muy puntuales.')
 
@@ -139,19 +129,18 @@
           p Se deben identificar posibles líneas estratégicas que les permitan encauzar el comportamiento de todos los miembros de la organización, hacia un horizonte y visión compartida, con el fin de que puedan competir dentro de un entorno altamente competitivo, cambiante y digital.
           p Durante el proceso de planeación estratégica, es necesario desarrollar, las siguientes fases:
 
-        .col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
+        .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema2/img-03.png', alt='Texto que describa la imagen')
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
+      .col-lg-4.col-lg.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/icono-012.svg' alt='AvatarTop')
           .tarjeta.color5(style= "width: 100%")
             .p-4
               p #[b 1- Alineación de la cultura organizacional a través de la misión y visión.]
-
-      .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
+      .col-lg-4.col-lg.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/icono-013.svg' alt='AvatarTop')
           .tarjeta.color5(style= "width: 100%")
@@ -159,22 +148,19 @@
               p #[b 2- Análisis del general del entorno:]
               p.mb-0 - Análisis sectorial del entorno.
               p - Análisis interno.
-            
-      .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
+      .col-lg-4.col-lg.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/icono-014.svg' alt='AvatarTop')
           .tarjeta.color5(style= "width: 100%")
             .p-4
               p #[b 3- Determinación del posicionamiento estratégico.] 
-
-      .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
+      .col-lg-4.col-lg.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/icono-015.svg' alt='AvatarTop')
           .tarjeta.color5(style= "width: 100%")
             .p-4
               p #[b 4- Formulación de fines, metas y objetivos.] 
-
-      .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
+      .col-lg-4.col-lg.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/icono-016.svg' alt='AvatarTop')
           .tarjeta.color5(style= "width: 100%")
