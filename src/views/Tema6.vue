@@ -35,9 +35,9 @@
 
     .titulo1.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
-      h4.mb-0 Innovación tecnológica y big data
+      h4.mb-0 Innovación tecnológica y #[i big data]
 
-    p.mb-5(data-aos="fade-right") La digitalización, ha abierto nuevas puertas en la medición de impactos de productos turísticos. Las tecnologías emergentes, como los sensores IoT (Internet de las Cosas), el análisis de big data y la inteligencia artificial (IA), ofrecen nuevas maneras de recopilar, procesar y analizar datos en tiempo real; encontrando las siguientes oportunidades:
+    p.mb-5(data-aos="fade-right") La digitalización, ha abierto nuevas puertas en la medición de impactos de productos turísticos. Las tecnologías emergentes, como los sensores IoT (Internet de las Cosas), el análisis de #[i big data] y la inteligencia artificial (IA), ofrecen nuevas maneras de recopilar, procesar y analizar datos en tiempo real; encontrando las siguientes oportunidades:
 
     .row.justify-content-center.align-items-center(data-aos="flip-up")
       .col-10

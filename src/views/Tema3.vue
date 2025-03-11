@@ -141,7 +141,7 @@
               h4.mb-1 Criterios indicadores medición municipal ICTRC
               p.text-small Para conocer las variables medidas por cada uno de los criterios, acceda al siguiente documento: 
             .col-sm-auto
-              a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/anexoCF10.pdf')" target="_blank")
+              a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Gestión_de_destinos_turisticos.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
@@ -309,13 +309,13 @@
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 12. ] #[i Atractivo que buscan los turistas y visitantes ]
+          p.titulo.pb-0.mb-0 #[b Figura 12. ] #[i Resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal 2019-2020 ]
         figure
           img(src='@/assets/curso/temas/tema3/img-v12-01.svg', alt='Figura 12 que contiene una gráfica estadística, la cual relaciona un resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal entre los años 2019-2020.')
 
       .col-md-6.movil(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 12. ] #[i Atractivo que buscan los turistas y visitantes ]
+          p.titulo.pb-0.mb-0 #[b Figura 12. ] #[i Resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal 2019-2020 ]
         figure
           img(src='@/assets/curso/temas/tema3/img-v12-02.svg', alt='Figura 12 que contiene una gráfica estadística, la cual relaciona un resultado general ICTRC por criterios de evaluación para Santa Rosa de Cabal entre los años 2019-2020.')
 
