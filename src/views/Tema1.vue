@@ -35,87 +35,84 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-03.png', alt='')
 
-    .tarjeta--container.row.mb-5(data-aos="zoom-in-down")
-      .col-md.tarjeta.color-primario.p-5
-        h4.text-center Positivo
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta
-                | Generación de divisas.
-              li 
-                i.lista-ul__vineta
-                | Generación de empleo, tanto principal como secundario.
-              li 
-                i.lista-ul__vineta
-                | Crecimiento económico.
-              li 
-                i.lista-ul__vineta
-                | Equilibrio en la balanza de pagos.
-              li 
-                i.lista-ul__vineta
-                | Contribución al PIB.
-              li 
-                i.lista-ul__vineta
-                | Promoción de la actividad empresarial.
-              li 
-                i.lista-ul__vineta
-                | Inversión extranjera directa.
-              li 
-                i.lista-ul__vineta
-                | Posibilidad de ingresos a grupos postergados y poco privilegiados.
-              li 
-                i.lista-ul__vineta
-                | Aumento de empresas de proveeduría.
-              li 
-                i.lista-ul__vineta
-                | Incremento en la demanda de bienes y servicios.
+    .row.justify-content-center.ali.mb-3(data-aos="flip-up")
+      .tarjeta--container.row.mb-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
+          h4.text-center Positivo
+          ul.lista-ul.mb-0
+            li 
+              i.lista-ul__vineta
+              | Generación de divisas.
+            li 
+              i.lista-ul__vineta
+              | Generación de empleo, tanto principal como secundario.
+            li 
+              i.lista-ul__vineta
+              | Crecimiento económico.
+            li 
+              i.lista-ul__vineta
+              | Equilibrio en la balanza de pagos.
+            li 
+              i.lista-ul__vineta
+              | Contribución al PIB.
+            li 
+              i.lista-ul__vineta
+              | Promoción de la actividad empresarial.
+            li 
+              i.lista-ul__vineta
+              | Inversión extranjera directa.
+            li 
+              i.lista-ul__vineta
+              | Posibilidad de ingresos a grupos postergados y poco privilegiados.
+            li 
+              i.lista-ul__vineta
+              | Aumento de empresas de proveeduría.
+            li 
+              i.lista-ul__vineta
+              | Incremento en la demanda de bienes y servicios.
 
-      .col-md.tarjeta.color-secundario.p-5
-        h4.text-center Negativo
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta
-                | Incremento en el valor de la tierra.
-              li 
-                i.lista-ul__vineta
-                | Fuga de inversiones.
-              li 
-                i.lista-ul__vineta
-                | Inflación local.
-              li 
-                i.lista-ul__vineta
-                | Fraccionamiento inadecuado y especulación con predios.
-              li 
-                i.lista-ul__vineta
-                | Importación intensiva de recursos e insumos.
-              li 
-                i.lista-ul__vineta
-                | Freno al desarrollo regional.
-              li 
-                i.lista-ul__vineta
-                | Insuficiente inversión en infraestructura.
-              li 
-                i.lista-ul__vineta
-                | Modificación de la estructura económica.
-              li 
-                i.lista-ul__vineta
-                | Distribución inequitativa de ingresos.
-              li 
-                i.lista-ul__vineta
-                | Sobredependencia económica.
-              li 
-                i.lista-ul__vineta
-                | Competencia intersectorial (abandono de otras actividades productivas).
-              li 
-                i.lista-ul__vineta
-                | Estacionalidad de la demanda.
-              li 
-                i.lista-ul__vineta
-                | Espejismo económico.
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
+          h4.text-center Negativo
+          ul.lista-ul.mb-0
+            li 
+              i.lista-ul__vineta
+              | Incremento en el valor de la tierra.
+            li 
+              i.lista-ul__vineta
+              | Fuga de inversiones.
+            li 
+              i.lista-ul__vineta
+              | Inflación local.
+            li 
+              i.lista-ul__vineta
+              | Fraccionamiento inadecuado y especulación con predios.
+            li 
+              i.lista-ul__vineta
+              | Importación intensiva de recursos e insumos.
+            li 
+              i.lista-ul__vineta
+              | Freno al desarrollo regional.
+            li 
+              i.lista-ul__vineta
+              | Insuficiente inversión en infraestructura.
+            li 
+              i.lista-ul__vineta
+              | Modificación de la estructura económica.
+            li 
+              i.lista-ul__vineta
+              | Distribución inequitativa de ingresos.
+            li 
+              i.lista-ul__vineta
+              | Sobredependencia económica.
+            li 
+              i.lista-ul__vineta
+              | Competencia intersectorial (abandono de otras actividades productivas).
+            li 
+              i.lista-ul__vineta
+              | Estacionalidad de la demanda.
+            li 
+              i.lista-ul__vineta
+              | Espejismo económico.
 
     .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-0(style="z-index:2")
@@ -132,47 +129,46 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-04.png', alt='')
     
-    .tarjeta--container.row.mb-5(data-aos="zoom-in-down")
-      .col-md.tarjeta.color-secundario.p-5
-        .row.justify-content-center.mb-4
-          .col-6.col-lg-4
-            figure
-              img(src='@/assets/curso/temas/tema1/icono-01.svg', alt='Imagen decorativa')
-        h4.text-center Positivo
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta
-                | Fortalecimiento de la capacidad de asociación.
-              li 
-                i.lista-ul__vineta
-                | Mayor interacción con el otro.
-              li 
-                i.lista-ul__vineta
-                | Reafirmación de valores y de la identidad cultural.
+    .row.justify-content-center.ali.mb-3(data-aos="flip-up")
+      .tarjeta--container.row.mb-5
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6
+              figure
+                img(src='@/assets/curso/temas/tema1/icono-01.svg', alt='Imagen decorativa')
+          
+          h4.text-center Positivo
+          ul.lista-ul.mb-0
+            li 
+              i.lista-ul__vineta
+              | Fortalecimiento de la capacidad de asociación.
+            li 
+              i.lista-ul__vineta
+              | Mayor interacción con el otro.
+            li 
+              i.lista-ul__vineta
+              | Reafirmación de valores y de la identidad cultural.
 
-      .col-md.tarjeta.color-primario.p-5
-        .row.justify-content-center.mb-4
-          .col-6.col-lg-4
-            figure
-              img(src='@/assets/curso/temas/tema1/icono-02.svg', alt='Imagen decorativa')
-        h4.text-center Negativo
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta
-                | Resquebrajamiento de la unidad familiar.
-              li 
-                i.lista-ul__vineta
-                | Pérdida de la identidad y de valores.
-              li 
-                i.lista-ul__vineta
-                | Drogadicción y prostitución.
-              li 
-                i.lista-ul__vineta
-                | Alto riesgo social de poblaciones vulnerables.
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6
+              figure
+                img(src='@/assets/curso/temas/tema1/icono-02.svg', alt='Imagen decorativa')
+          
+          h4.text-center Negativo
+          ul.lista-ul.mb-0
+            li 
+              i.lista-ul__vineta
+              | Resquebrajamiento de la unidad familiar.
+            li 
+              i.lista-ul__vineta
+              | Pérdida de la identidad y de valores.
+            li 
+              i.lista-ul__vineta
+              | Drogadicción y prostitución.
+            li 
+              i.lista-ul__vineta
+              | Alto riesgo social de poblaciones vulnerables.
 
     .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-0(style="z-index:2")
@@ -189,59 +185,56 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-05.png', alt='')
 
-    .tarjeta--container.row.mb-5(data-aos="zoom-in-down")
-      .col-md.tarjeta.color-primario.p-5
-        h4.text-center Positivo
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta
-                | Estímulo para la conservación y mejora del entorno.
-              li 
-                i.lista-ul__vineta
-                | Creación de parques naturales, protección de áreas salvajes, restauración y preservación de lugares históricos.
-              li 
-                i.lista-ul__vineta
-                | Introducción de medidas de planificación y gestión.
-              li 
-                i.lista-ul__vineta
-                | Sensibilización.
+    .row.justify-content-center.ali(data-aos="flip-up")
+      .tarjeta--container.row.mb-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
+          h4.text-center Positivo
+          ul.lista-ul.mb-0
+            li 
+              i.lista-ul__vineta
+              | Estímulo para la conservación y mejora del entorno.
+            li 
+              i.lista-ul__vineta
+              | Creación de parques naturales, protección de áreas salvajes, restauración y preservación de lugares históricos.
+            li 
+              i.lista-ul__vineta
+              | Introducción de medidas de planificación y gestión.
+            li 
+              i.lista-ul__vineta
+              | Sensibilización.
 
-      .col-md.tarjeta.color-secundario.p-5
-        h4.text-center Negativo
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta
-                | Erosión y degradación del entorno:
-              li
-                ul
-                  li 
-                    i.lista-ul__vineta
-                    | Polución (agua, aire, etc.).
-                  li 
-                    i.lista-ul__vineta
-                    | Aguas residuales.
-                  li 
-                    i.lista-ul__vineta
-                    | Recogida de basuras.
-                  li 
-                    i.lista-ul__vineta
-                    | Vertederos incontrolados.
-                  li 
-                    i.lista-ul__vineta
-                    | Agotamiento de recursos acuíferos.
-                  li 
-                    i.lista-ul__vineta
-                    | Erosión del suelo.
-                  li 
-                    i.lista-ul__vineta
-                    | Deterioro hábitat (fauna y flora).
-              li 
-                i.lista-ul__vineta
-                | Desarrollo urbano no integrado en el paisaje.
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
+          h4.text-center Negativo
+          ul.lista-ul.mb-0
+            li 
+              i.lista-ul__vineta
+              | Erosión y degradación del entorno:
+            li
+              ul
+                li 
+                  i.lista-ul__vineta
+                  | Polución (agua, aire, etc.).
+                li 
+                  i.lista-ul__vineta
+                  | Aguas residuales.
+                li 
+                  i.lista-ul__vineta
+                  | Recogida de basuras.
+                li 
+                  i.lista-ul__vineta
+                  | Vertederos incontrolados.
+                li 
+                  i.lista-ul__vineta
+                  | Agotamiento de recursos acuíferos.
+                li 
+                  i.lista-ul__vineta
+                  | Erosión del suelo.
+                li 
+                  i.lista-ul__vineta
+                  | Deterioro hábitat (fauna y flora).
+            li 
+              i.lista-ul__vineta
+              | Desarrollo urbano no integrado en el paisaje.
 
 
 

@@ -7,11 +7,6 @@
         span 3
       h1 Indicadores
 
-    .row.justify-content-center.mb-5(data-aos="fade-right")
-      .col-12
-        figure
-          img(src='@/assets/curso/temas/tema3/img-01.png', alt='')
-
     p.mb-5(data-aos="fade-right") Los indicadores son fundamentales para evaluar los impactos del turismo. Algunos ejemplos incluyen:
 
     .row.justify-content-center.mb-5
@@ -54,7 +49,7 @@
 
     p.mb-5(data-aos="fade-right") De igual manera, es importante conocer los siguientes datos estadísticos sobre indicadores turísticos:
 
-    .row.justify-content-center.mt-5.mb-3
+    .row.justify-content-center.mb-5
       .col-lg-12.col-12(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3. ] #[i Ingreso de divisas por turismo a Colombia ]
@@ -67,7 +62,7 @@
       h5 Figura 4.
       span  #[i Movilización de turistas en Colombia durante 2023 ]
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-md-10.desktop(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema3/img-v03-01.svg', alt='Figura 4 que contiene datos estadísticos sobre cómo fue la movilización de turistas en Colombia durante el año 2023. Destacando los que fueron reportados, las cifras en el mes de diciembre, los visitantes residentes y extranjeros, entre otros aspectos.')
@@ -423,9 +418,9 @@
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
       h4.mb-0 Conclusiones que se dan de estos indicadores anuales en Santa Rosa de Cabal
 
-    .tarjeta.tarjeta--BG05.p-4.mb-3
+    .tarjeta.tarjeta--BG05.p-4
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-        .col-lg-3.col-10.mb-lg-0.mb-4
+        .col-lg-3.col-6.mb-lg-0.mb-4
           figure
             img(src='@/assets/curso/temas/tema3/img-013.png', alt='Imagen decorativa')
         .col-lg-7

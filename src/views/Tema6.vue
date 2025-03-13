@@ -39,23 +39,21 @@
 
     p.mb-5(data-aos="fade-right") La digitalización, ha abierto nuevas puertas en la medición de impactos de productos turísticos. Las tecnologías emergentes, como los sensores IoT (Internet de las Cosas), el análisis de #[i big data] y la inteligencia artificial (IA), ofrecen nuevas maneras de recopilar, procesar y analizar datos en tiempo real; encontrando las siguientes oportunidades:
 
-    .row.justify-content-center.align-items-center(data-aos="flip-up")
-      .col-10
-        LineaTiempoE.color-acento-contenido.mb-5
-          .row(titulo="01")
-            .col-lg-2.mb-3.mb-lg-0.col-6
-              figure
-                img.img200(src='@/assets/curso/temas/tema6/icono-01.svg', alt='Imagen decorativa')
-            .col-lg-10.mb-4.mb-lg-0
-              h3 Usar tecnologías de recopilación de datos
-                p.mb-0 Como sensores en el destino, aplicaciones móviles y plataformas de monitoreo, para medir el comportamiento de los turistas, el uso de infraestructuras y la demanda de servicios. Con estos datos, se puede predecir patrones, ajustar la oferta turística y reducir impactos negativos, como la saturación de los destinos o la sobrecarga de ciertos servicios.
-          .row(titulo="02")
-            .col-lg-2.mb-3.mb-lg-0.col-6
-              figure
-                img.img200(src='@/assets/curso/temas/tema6/icono-02.svg', alt='Imagen decorativa')
-            .col-lg-10.mb-4.mb-lg-0
-              h3 Implementar sistemas de gestión inteligente de destinos turísticos
-                p.mb-0 Los cuales, a través de la recopilación de datos, optimicen la experiencia del turista (evitar largas filas, ajustar horarios de servicios) y gestionen los flujos de visitantes para reducir la masificación en zonas sensibles.
+    LineaTiempoE.color-acento-contenido.mb-5
+      .row(titulo="01")
+        .col-lg-3.mb-3.mb-lg-0.col-6
+          figure
+            img.img200(src='@/assets/curso/temas/tema6/icono-01.svg', alt='Imagen decorativa')
+        .col-lg-9.mb-4.mb-lg-0
+          h3 Usar tecnologías de recopilación de datos
+            p.mb-0 Como sensores en el destino, aplicaciones móviles y plataformas de monitoreo, para medir el comportamiento de los turistas, el uso de infraestructuras y la demanda de servicios. Con estos datos, se puede predecir patrones, ajustar la oferta turística y reducir impactos negativos, como la saturación de los destinos o la sobrecarga de ciertos servicios.
+      .row(titulo="02")
+        .col-lg-3.mb-3.mb-lg-0.col-6
+          figure
+            img.img200(src='@/assets/curso/temas/tema6/icono-02.svg', alt='Imagen decorativa')
+        .col-lg-9.mb-4.mb-lg-0
+          h3 Implementar sistemas de gestión inteligente de destinos turísticos
+            p.mb-0 Los cuales, a través de la recopilación de datos, optimicen la experiencia del turista (evitar largas filas, ajustar horarios de servicios) y gestionen los flujos de visitantes para reducir la masificación en zonas sensibles.
     
     .titulo1.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
@@ -63,26 +61,23 @@
 
     p.mb-5(data-aos="fade-right") El impacto económico de los productos turísticos, cuando se mide correctamente, ofrece un panorama claro sobre cómo el turismo contribuye a la economía local. La medición de estos impactos, puede identificar áreas de oportunidad para mejorar la distribución de los beneficios del turismo y asegurar que las comunidades locales obtengan una parte justa de los ingresos generados; encontrando:
 
-    .tarjeta--container.row.mb-5(data-aos="zoom-in-down")
-      .col-md.tarjeta.color-primario.p-5
-        .row.justify-content-center.mb-4
-          .col-6.col-lg-4
-            figure
-              img(src='@/assets/curso/temas/tema6/icono-03.svg', alt='Imagen decorativa')
-        h4.text-center Evaluar y mejorar el modelo de turismo inclusivo
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            p Involucrar a las comunidades locales en la creación y gestión de productos turísticos. Por ejemplo, el desarrollo de productos que promuevan la cultura local, como visitas a comunidades indígenas, talleres de artesanía local o gastronomía autóctona, permite redistribuir los beneficios turísticos entre los actores locales.
+    .row.justify-content-center.ali.mb-3(data-aos="flip-up")
+      .tarjeta--container.row.mb-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6
+              figure
+                img(src='@/assets/curso/temas/tema6/icono-03.svg', alt='Imagen decorativa')
+          h4.text-center Evaluar y mejorar el modelo de turismo inclusivo
+          p Involucrar a las comunidades locales en la creación y gestión de productos turísticos. Por ejemplo, el desarrollo de productos que promuevan la cultura local, como visitas a comunidades indígenas, talleres de artesanía local o gastronomía autóctona, permite redistribuir los beneficios turísticos entre los actores locales.
 
-      .col-md.tarjeta.color-secundario.p-5
-        .row.justify-content-center.mb-4
-          .col-6.col-lg-4
-            figure
-              img(src='@/assets/curso/temas/tema6/icono-04.svg', alt='Imagen decorativa')
-        h4.text-center Fomentar el turismo rural y de proximidad
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            p Identificar cuáles son los destinos y productos turísticos que tienen un mayor potencial para fortalecer economías rurales, ayudando a reducir la dependencia del turismo de masas, en áreas urbanas y distribuir de manera más equitativa los beneficios.
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6
+              figure
+                img(src='@/assets/curso/temas/tema6/icono-04.svg', alt='Imagen decorativa')
+          h4.text-center Fomentar el turismo rural y de proximidad
+          p Identificar cuáles son los destinos y productos turísticos que tienen un mayor potencial para fortalecer economías rurales, ayudando a reducir la dependencia del turismo de masas, en áreas urbanas y distribuir de manera más equitativa los beneficios.
       
     .titulo1.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
@@ -93,19 +88,19 @@
     .tarjeta.tarjeta--azul.mb-5(data-aos="fade-left")
       .p-4.p-lg-5
         SlyderA(tipo="b")
-          .row
-            .col-lg-6.mb-4.mb-lg-0
+          .row.justify-content-center.align-items-center
+            .col-lg-7.order-lg-1.order-2
               p #[b Crear productos turísticos personalizados ]
               p.mb-0 Utilizando la retroalimentación y los datos recogidos para ajustar la oferta a las necesidades de diferentes segmentos de turistas (ecoturistas, viajeros de lujo, turistas culturales, etc.). Las plataformas de gestión de relaciones con los clientes (CRM), permiten crear experiencias más enfocadas en los intereses de los turistas, mejorando la calidad percibida y la fidelización.
-            .col-lg-6
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema6/img-03.png', style="width: 450px" ,alt='').m-auto
           
-          .row
-            .col-lg-7.mb-4.mb-lg-0
+          .row.justify-content-center.align-items-center
+            .col-lg-7.order-lg-1.order-2
               p #[b Mejorar la calidad del servicio ]
               p.mb-0 A través de encuestas de satisfacción y análisis de datos en tiempo real, los destinos turísticos pueden identificar áreas de mejora y tomar decisiones informadas, para ofrecer productos de alta calidad, lo que contribuye a la sostenibilidad del destino a largo plazo.
-            .col-lg-5
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema6/img-04.png', style="width: 450px" ,alt='').m-auto
 
@@ -131,26 +126,23 @@
 
     p.mb-5(data-aos="fade-right") La medición de los impactos de los productos turísticos, también puede abrir oportunidades para fortalecer la colaboración entre los sectores público y privado. Los datos sobre los impactos socioeconómicos y medioambientales del turismo, pueden ser utilizados para desarrollar políticas públicas que favorezcan un desarrollo turístico sostenible y equilibrado. Lo anterior, debe llevar a cabo las oportunidades descritas a continuación:
 
-    .tarjeta--container.row.mb-5(data-aos="zoom-in-down")
-      .col-md.tarjeta.color-primario.p-5
-        .row.justify-content-center.mb-4
-          .col-6.col-lg-4
-            figure
-              img(src='@/assets/curso/temas/tema6/icono-05.svg', alt='Imagen decorativa')
-        h4.text-center Impulsar políticas públicas basadas en evidencia
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            p Los gobiernos pueden usar los datos de impacto para implementar regulaciones y normativas que favorezcan el turismo sostenible, como la regulación de la capacidad de carga de ciertos destinos, el control del desarrollo de infraestructuras turísticas y la promoción de modelos de negocio responsables.
+    .row.justify-content-center.ali(data-aos="flip-up")
+      .tarjeta--container.row.mb-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6
+              figure
+                img(src='@/assets/curso/temas/tema6/icono-05.svg', alt='Imagen decorativa')
+          h4.text-center Impulsar políticas públicas basadas en evidencia
+          p Los gobiernos pueden usar los datos de impacto para implementar regulaciones y normativas que favorezcan el turismo sostenible, como la regulación de la capacidad de carga de ciertos destinos, el control del desarrollo de infraestructuras turísticas y la promoción de modelos de negocio responsables.
 
-      .col-md.tarjeta.color-secundario.p-5
-        .row.justify-content-center.mb-4
-          .col-6.col-lg-4
-            figure
-              img(src='@/assets/curso/temas/tema6/icono-06.svg', alt='Imagen decorativa')
-        h4.text-center Establecer alianzas entre los sectores público, privado y la sociedad civil 
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            p Se debe gestionar el turismo de manera integral. A través de la medición de impactos, se puede generar un diálogo entre estos sectores, para promover un desarrollo turístico más equitativo, inclusivo y sostenible.
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6
+              figure
+                img(src='@/assets/curso/temas/tema6/icono-06.svg', alt='Imagen decorativa')
+          h4.text-center Establecer alianzas entre los sectores público, privado y la sociedad civil 
+          p Se debe gestionar el turismo de manera integral. A través de la medición de impactos, se puede generar un diálogo entre estos sectores, para promover un desarrollo turístico más equitativo, inclusivo y sostenible.
 
 
 

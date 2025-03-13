@@ -57,9 +57,14 @@
       border-top-right-radius: 15px
       border-bottom-right-radius: 15px
 
+  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
+    display: flex
+
 .tema2
   .BG09
     background: linear-gradient(to right, #FEEBCF 12%, #FEF7EB 12%)
+    @media (max-width: $bp-max-md)
+      background: linear-gradient(to bottom, #FEEBCF 12%, #FEF7EB 12%)
 
   //Fondos
 
@@ -156,6 +161,9 @@
     margin-bottom: 0 !important
   .tabs-c.color-acento-botones .tabs-c__tab--active
     font-weight: 700
+
+  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li i
+    display: flex-general
 
 .tema5
   .tarjeta.tarjeta--azul

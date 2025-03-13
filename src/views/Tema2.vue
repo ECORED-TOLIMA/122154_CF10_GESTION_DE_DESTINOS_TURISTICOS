@@ -106,7 +106,7 @@
       h5 Figura 1.
       span  #[i Pasos para un plan de acción ]
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center
       .col-lg-10.desktop(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema2/img-v01.svg', alt='Figura 1 que relaciona un esquema, el cual explica cómo se puede elaborar un plan de acción, indicando pasos muy puntuales.')
@@ -117,11 +117,11 @@
 
     Separador
 
-    .tarjeta.tarjeta--BG05.p-4.mb-3
-      #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.1 Implementación de estrategias
-
-      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.1 Implementación de estrategias
+    
+    .tarjeta.tarjeta--BG05.p-4.p-md-5.mb-5(data-aos="flip-up")
+      .row.justify-content-center.mb-4
         .col-lg-9.col-12.order-lg-1.order-2 
           p El sector turístico, es un vehículo excelente en el desarrollo sostenible y prosperidad para los países en vías de desarrollo; por lo tanto, es de especial consideración la planeación e implementación de estrategias que les permita prepararse y anticiparse, ante estos escenarios de gran trascendencia su subsistencia. 
           p Una correcta planeación e implementación estratégica, le permite descubrir y aprovechar nuevas oportunidades que se presenten en el entorno y mitigar posibles impactos negativos en un corto, mediano y largo plazo.
@@ -129,7 +129,7 @@
           p Se deben identificar posibles líneas estratégicas que les permitan encauzar el comportamiento de todos los miembros de la organización, hacia un horizonte y visión compartida, con el fin de que puedan competir dentro de un entorno altamente competitivo, cambiante y digital.
           p Durante el proceso de planeación estratégica, es necesario desarrollar, las siguientes fases:
 
-        .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-3
+        .col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema2/img-03.png', alt='Texto que describa la imagen')
 
@@ -195,14 +195,14 @@
             i.fas.fa-check(style="color: #FFB937")
             p.mb-0 Implementar un mecanismo de monitoreo y evaluación que permita medir su cumplimiento de forma constante.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center
       .col-lg-8(data-aos="fade-down-right")
-        .cajon.color-primario.p-4.mb-4(style="background-color:#FEF7EB")
+        .cajon.color-primario.p-4.mb-0(style="background-color:#FEF7EB")
           .row.justify-content-center.align-items-center
-            .col-lg-2.col-4.mb-lg-0.mb-4 
+            .col-lg-2.col-4.mb-lg-0.mb-0 
               img.mb-3(src='@/assets/curso/temas/tema2/icono-017.svg')
             .col-lg-9
-              p Es importante que el director de estrategia esté capacitado, posea las herramientas tecnológicas necesarias y las mejores prácticas directivas que le permitan tomar las mejores decisiones y motivar a los actores claves, para que apoyen su implementación.
+              p.mb-0 Es importante que el director de estrategia esté capacitado, posea las herramientas tecnológicas necesarias y las mejores prácticas directivas que le permitan tomar las mejores decisiones y motivar a los actores claves, para que apoyen su implementación.
 
 
 

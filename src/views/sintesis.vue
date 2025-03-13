@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen decorativa")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis del componente formativo Medición de impactos de productos turísticos, se tratan los aspectos que tiene que ver con la medición que impacta y tiene unos indicadores a nivel económico, social y ambiental, ejemplificando esto, por medio del CTRC presente en un municipio de Risaralda; además de las estrategias que se crean al momento de elaborar un plan de acción; también, se relaciona el impacto que se genera cuando se identifican problemas y se dan a conocer las oportunidades de mejora existentes sobre estos procesos.")
       .col-auto(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

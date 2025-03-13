@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img-01.png', alt='')
 
-    p.mb-5(data-aos="fade-right") La medición del impacto de estrategias en productos turísticos, permite a las empresas entender cómo sus acciones afectan, tanto a la experiencia del cliente como a la sostenibilidad del destino.
+    p(data-aos="fade-right") La medición del impacto de estrategias en productos turísticos, permite a las empresas entender cómo sus acciones afectan, tanto a la experiencia del cliente como a la sostenibilidad del destino.
 
     Separador
 
@@ -90,7 +90,7 @@
 
     p.mb-5(data-aos="fade-right") Este último impacto, tiene inmerso las siguientes acciones:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-6.col-10.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img-03.png', alt='Texto que describa la imagen')
@@ -114,7 +114,7 @@
 
     p.mb-5(data-aos="fade-right") Aunque estos métodos son conocidos, es importante relacionarlos y de manera puntual, entender su función:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center
       .col-lg-10.movil
         figure
           img(src='@/assets/curso/temas/tema4/img-v01-02.svg', alt='Texto que describa la imagen')
@@ -142,26 +142,25 @@
 
     p.mb-5(data-aos="fade-right") Aunque parecieran son pocas, a continuación, se relacionan las dos herramientas utilizadas para medir el impacto:
 
-    .tarjeta--container.row.mb-5(data-aos="zoom-in-down")
-      .col-md.tarjeta.color-primario.p-5
-        .row.justify-content-center.mb-4
-          .col-6.col-lg-4
-            figure
-              img(src='@/assets/curso/temas/tema4/icono-01.svg', alt='Imagen decorativa')
-        h4.text-center #[i Software] de análisis de datos
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            p Se encuentran herramientas como Google Analytics, Tableau o #[i software] especializado en turismo.
+    .row.justify-content-center.ali.mb-3(data-aos="flip-up")
+      .tarjeta--container.row.mb-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6
+              figure
+                img(src='@/assets/curso/temas/tema4/icono-01.svg', alt='Imagen decorativa')
+        
+          h4.text-center #[i Software] de análisis de datos
+          p Se encuentran herramientas como Google Analytics, Tableau o #[i software] especializado en turismo.
 
-      .col-md.tarjeta.color-secundario.p-5
-        .row.justify-content-center.mb-4
-          .col-6.col-lg-4
-            figure
-              img(src='@/assets/curso/temas/tema4/icono-02.svg', alt='Imagen decorativa')
-        h4.text-center Indicadores clave de desempeño (KPI)
-        .row.justify-content-center.p-4(titulo=" ")
-          .col-lg-10.order-lg-1.order-2
-            p Definen y rastrean KPIs que reflejen el éxito de las estrategias.
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-6
+              figure
+                img(src='@/assets/curso/temas/tema4/icono-02.svg', alt='Imagen decorativa')
+          
+          h4.text-center Indicadores clave de desempeño (KPI)
+          p Definen y rastrean KPIs que reflejen el éxito de las estrategias.
 
     Separador
 
@@ -170,7 +169,7 @@
 
     p.mb-5(data-aos="fade-right") Para finalizar el tema, se ejemplifican las estrategias y su impacto, logrando interpretar de esta manera, acciones reales que se llevan en el accionar turístico: 
 
-    TabsC.color-acento-botones.mb-5(data-aos="flip-up")
+    TabsC.color-acento-botones(data-aos="flip-up")
       .py-3.py-md-4(titulo="Estrategias de <em>marketing</em> digital")
         .row.justify-content-center.p-4
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
