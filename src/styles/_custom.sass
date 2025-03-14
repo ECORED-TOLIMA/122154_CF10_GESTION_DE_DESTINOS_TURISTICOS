@@ -40,6 +40,9 @@
   .desktop 
     display: none
 
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li i
+  display: flex-general
+
 .introduccion
   .cajon.color-primario:before
     background-color: #EFB499
@@ -48,146 +51,104 @@
     width: 50%
     height: 27%
 
-.tema1
-  .bg
-    &-c7
-      position: relative
-      left: -2%
-      background-color: #FFE9DF
-      border-top-right-radius: 15px
-      border-bottom-right-radius: 15px
-
-  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
-    display: flex
-
-.tema2
-  .BG09
-    background: linear-gradient(to right, #FEEBCF 12%, #FEF7EB 12%)
-    @media (max-width: $bp-max-md)
-      background: linear-gradient(to bottom, #FEEBCF 12%, #FEF7EB 12%)
-
-  //Fondos
-
-  .tarjeta--BG05
-    background-image: url("../assets/curso/temas/tema2/bgfondo.png")
-    background-size: cover
-    background-repeat: no-repeat
-    background-position: center
-    margin-inline: -3rem !important
-    @media (max-width: $bp-max-sm)
-      margin-inline: -1.5rem !important
-
-  .tarjeta--boton.color-secundario
-    background: #FFE9DF
-
-  .tarjeta.color5
+.bg
+  &-c7
+    position: relative
+    left: -2%
     background-color: #FFE9DF
+    border-top-right-radius: 15px
+    border-bottom-right-radius: 15px
+
+.BG09
+  background: linear-gradient(to right, #FEEBCF 12%, #FEF7EB 12%)
+  @media (max-width: $bp-max-md)
+    background: linear-gradient(to bottom, #FEEBCF 12%, #FEF7EB 12%)
+
+//Fondos
+.tarjeta--BG05
+  background-image: url("../assets/curso/temas/tema2/bgfondo.png")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.tarjeta--boton.color-secundario
+  background: #FFE9DF
+
+.tarjeta.color5, .titulo1
+  background-color: #FFE9DF
   
-  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li
-    display: flex
+.tarjeta.color-primario
+  background-color: #E2F5F1
 
-.tema3
-  .tarjeta--boton.color-secundario
-    background: #FFE9DF
+.boton.color-acento-contenido
+  background-color: #09614D
 
-  .bg
-    &-c7
-      position: relative
-      left: -2%
-      background-color: #FFE9DF
-      border-top-right-radius: 15px
-      border-bottom-right-radius: 15px
+.titulo1
+  background-color: #FFE9DF
+  color: black
+  padding: 4px 10px
+  border-radius: 50px
+  display: inline-flex
+  align-items: center
+  justify-content: flex-start
 
-  .tarjeta.color-primario
-    background-color: #E2F5F1
+.titulo1 img
+  width: 35px
+  height: auto
+  margin-right: 10px
 
-  .boton.color-acento-contenido
-    background-color: #09614D
+.tarjeta--BG03
+  background-color: #E2F5F1 !important
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
 
-  .tarjeta--BG05
-    background-image: url("../assets/curso/temas/tema2/bgfondo.png")
-    background-size: cover
-    background-repeat: no-repeat
-    background-position: center
-    margin-inline: -3rem !important
-    @media (max-width: $bp-max-sm)
-      margin-inline: -1.5rem !important
+// tabsC
+.tabs-c__content-item
+  background-color: #FEEBCF
+.tabs-c__tab
+  background-color: #D1E1DD
+.tabs-c__tab--active
+  background-color: #fff
+.tabs-b__tab--active:hover
+  background-color: #FEEBCF
+.tabs-b__content-item
+  background-color: #FEEBCF
+.tabs-b__tab
+  background-color: #D1E1DD
+.tabs-b__tab--active
+  background-color: #FEEBCF
+.tabs-c__header
+  margin-bottom: 0 !important
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  font-weight: 700
 
-  .titulo1
-    background-color: #FFE9DF
-    color: black
-    padding: 4px 10px
-    border-radius: 50px
-    display: inline-flex
-    align-items: center
-    justify-content: flex-start
+.tarjeta.tarjeta--azul
+  background-image: url(../assets/curso/temas/tema5/fondo-slyder.svg)
+  background-repeat: no-repeat
+  background-size: cover
 
-  .titulo1 img
-    width: 35px
-    height: auto
-    margin-right: 10px
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #09614D
+  color: #FFFF
 
-.tema4
-  .bg
-    &-c7
-      position: relative
-      left: -2%
-      background-color: #FFE9DF
-      border-top-right-radius: 15px
-      border-bottom-right-radius: 15px
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-image: url('../assets/curso/temas/tema5/arrow.svg')
 
-  .tarjeta--BG03
-    background-color: #E2F5F1 !important
-    background-size: cover 
-    background-repeat: no-repeat
-    background-position: center
+.slyder-a__bullets__item
+  background-color: #FFB937
+  @media (max-width: 450px)
+    margin: 0 5px
+  @media (max-width: 400px)
+    margin: 0 4px
 
-  // tabsC
-  .tabs-c__content-item
-    background-color: #FEEBCF
-  .tabs-c__tab
-    background-color: #D1E1DD
-  .tabs-c__tab--active
-    background-color: #fff
-  .tabs-b__tab--active:hover
-    background-color: #FEEBCF
-  .tabs-b__content-item
-    background-color: #FEEBCF
-  .tabs-b__tab
-    background-color: #D1E1DD
-  .tabs-b__tab--active
-    background-color: #FEEBCF
-  .tabs-c__header
-    margin-bottom: 0 !important
-  .tabs-c.color-acento-botones .tabs-c__tab--active
-    font-weight: 700
-
-  .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, .lista-ul li i
-    display: flex-general
+.slyder-a__bullets__item--active
+  background-color: #09614D
 
 .tema5
-  .tarjeta.tarjeta--azul
-    background-image: url(../assets/curso/temas/tema5/fondo-slyder.svg)
-    background-repeat: no-repeat
-    background-size: cover
-
-  .slyder-a__btn--sigt, .slyder-a__btn--atrs
-    background-color: #09614D
-    color: #FFFF
-
-  .slyder-a__btn--atrs, .slyder-a__btn--sigt
-    background-image: url('../assets/curso/temas/tema5/arrow.svg')
-
-  .slyder-a__bullets__item
-    background-color: #FFB937
-    @media (max-width: 450px)
-      margin: 0 5px
-    @media (max-width: 400px)
-      margin: 0 4px
-
-  .slyder-a__bullets__item--active
-    background-color: #09614D
-
   //Tarjetas---------------------------------------------------
   .img100
     width: 100px
@@ -232,63 +193,33 @@
     &::before 
       border-bottom-left-radius: 30px
 
+.BG03, .linea-tiempo-d .tarjeta
+  background-color: #D1E1DD
+
+.BG03.acordion__activo, .cajon.color-secundario, .tarjeta--boton
+  background-color: #FFE9DF
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__number, .acordion__accion__btn--a, .acordion__accion__btn--b
+  background-color: #09614D
+  color: #FFF
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #FFE9DF
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+
+.slyder-f__btn i
+  color: #09614D
+
+.img200
+  width: 200px
+
 .tema6
-  .titulo1
-    background-color: #FFE9DF
-    color: black
-    padding: 4px 10px
-    border-radius: 50px
-    display: inline-flex
-    align-items: center
-    justify-content: flex-start
-
-  .titulo1 img
-    width: 35px
-    height: auto
-    margin-right: 10px
-
-  .BG03, .linea-tiempo-d .tarjeta
-    background-color: #D1E1DD
-
-  .BG03.acordion__activo, .cajon.color-secundario, .tarjeta--boton
-    background-color: #FFE9DF
-
-  .linea-tiempo-d__item--selected .linea-tiempo-d__item__number, .acordion__accion__btn--a, .acordion__accion__btn--b
-    background-color: #09614D
-    color: #FFF
-
-  .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
-    background-color: #FFE9DF
-
-  .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
-    border-radius: 5px 5px 0 0
-
-  .linea-tiempo-d__item__content__slot
-    border-radius: 0 0 5px 5px
-  .slyder-f__btn i
-    color: #09614D
-
-  .img200
-    width: 200px
-
   .tarjeta.tarjeta--azul
     background-image: url(../assets/curso/temas/tema6/fondo-slyder.svg)
     background-repeat: no-repeat
     background-size: cover
-
-  .slyder-a__btn--sigt, .slyder-a__btn--atrs
-    background-color: #09614D
-    color: #FFFF
-
-  .slyder-a__btn--atrs, .slyder-a__btn--sigt
-    background-image: url('../assets/curso/temas/tema5/arrow.svg')
-
-  .slyder-a__bullets__item
-    background-color: #FFB937
-    @media (max-width: 450px)
-      margin: 0 5px
-    @media (max-width: 400px)
-      margin: 0 4px
-
-  .slyder-a__bullets__item--active
-    background-color: #09614D

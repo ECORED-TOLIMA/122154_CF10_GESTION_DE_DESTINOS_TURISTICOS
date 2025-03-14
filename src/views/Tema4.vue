@@ -144,7 +144,7 @@
 
     .row.justify-content-center.ali.mb-3(data-aos="flip-up")
       .tarjeta--container.row.mb-5
-        .col-xl.col-md-6.tarjeta.color-primario.p-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5(style="background-color:#FEEBCF")
           .row.justify-content-center.mb-3
             .col-lg-4.col-6
               figure

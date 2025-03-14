@@ -37,7 +37,7 @@
 
     .row.justify-content-center.ali.mb-3(data-aos="flip-up")
       .tarjeta--container.row.mb-5
-        .col-xl.col-md-6.tarjeta.color-primario.p-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5(style="background-color:#FEEBCF")
           h4.text-center Positivo
           ul.lista-ul.mb-0
             li 
@@ -149,7 +149,7 @@
               i.lista-ul__vineta
               | Reafirmación de valores y de la identidad cultural.
 
-        .col-xl.col-md-6.tarjeta.color-primario.p-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5(style="background-color:#FEEBCF")
           .row.justify-content-center.mb-3
             .col-lg-4.col-6
               figure
@@ -187,7 +187,7 @@
 
     .row.justify-content-center.ali(data-aos="flip-up")
       .tarjeta--container.row.mb-5
-        .col-xl.col-md-6.tarjeta.color-primario.p-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5(style="background-color:#FEEBCF")
           h4.text-center Positivo
           ul.lista-ul.mb-0
             li 
