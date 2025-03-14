@@ -32,26 +32,20 @@
     p.mb-5(data-aos="fade-right") Dentro de este impacto se llevan a cabo las siguientes acciones:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6.col-10.mb-4(data-aos="fade-right")
+      .col-lg-6.col-8.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img-01.png', alt='Texto que describa la imagen')
-      .col-lg-6.mb-4.mb-lg-0
+      .col-lg-6
         ul.lista-ul
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            | #[b Generación de ingresos ]
-            br
-            | Evalúa cómo las estrategias de #[i marketing] y ventas, aumentan los ingresos por turismo.
+            p.mb-0 #[b Generación de ingresos ] <br/>Evalúa cómo las estrategias de <em>marketing</em> y ventas, aumentan los ingresos por turismo.
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            | #[b Empleo ]
-            br
-            | Analiza la creación de empleo local y su relación con el crecimiento del producto turístico.
+            p.mb-0 #[b Empleo ] <br/>Analiza la creación de empleo local y su relación con el crecimiento del producto turístico.
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            | #[b Inversión ]
-            br
-            | Mide la atracción de inversiones en infraestructura turística.
+            p.mb-0 #[b Inversión ] <br/>Mide la atracción de inversiones en infraestructura turística.
 
     .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-0(style="z-index:2")
@@ -64,21 +58,17 @@
     p.mb-5(data-aos="fade-right") Se llevan a cabo dentro de este impacto, lo siguientes procesos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6.col-10.mb-4(data-aos="fade-right")
+      .col-lg-6.col-8.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img-02.png', alt='Texto que describa la imagen')
-      .col-lg-6.mb-4.mb-lg-0
+      .col-lg-6
         ul.lista-ul
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            | #[b Percepción del destino ]
-            br
-            | Analiza cómo las campañas de marketing, afectan la imagen del destino entre los turistas y los residentes.
+            p.mb-0 #[b Percepción del destino ] <br/>Analiza cómo las campañas de marketing, afectan la imagen del destino entre los turistas y los residentes.
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            | #[b Cultura local ]
-            br
-            | Evalúa el impacto en la cultura local, como la preservación de tradiciones o la comercialización de cultura.
+            p.mb-0 #[b Cultura local ] <br/>Evalúa el impacto en la cultura local, como la preservación de tradiciones o la comercialización de cultura.
 
     .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-0(style="z-index:2")
@@ -91,21 +81,17 @@
     p.mb-5(data-aos="fade-right") Este último impacto, tiene inmerso las siguientes acciones:
 
     .row.justify-content-center.align-items-center
-      .col-lg-6.col-10.mb-4(data-aos="fade-right")
+      .col-lg-6.col-8.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img-03.png', alt='Texto que describa la imagen')
-      .col-lg-6.mb-4.mb-lg-0
+      .col-lg-6
         ul.lista-ul
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            | #[b Sostenibilidad ]
-            br
-            | Analiza las prácticas sostenibles implementadas y su efecto en el medio ambiente.
+            p.mb-0 #[b Sostenibilidad ] <br/>Analiza las prácticas sostenibles implementadas y su efecto en el medio ambiente.
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            | #[b Conservación de recursos ]
-            br
-            | Mide el uso de recursos naturales y cómo las estrategias contribuyen a su conservación.
+            p.mb-0 #[b Conservación de recursos ] <br/>Mide el uso de recursos naturales y cómo las estrategias contribuyen a su conservación.
 
     Separador
 
