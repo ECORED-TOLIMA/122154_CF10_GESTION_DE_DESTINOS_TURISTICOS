@@ -84,12 +84,12 @@
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
       h4.mb-0 Indicadores del 2018 Santa Rosa de cabal
       
-    p.mb-5(data-aos="fade-right") Santa Rosa de Cabal, se destaca por su tradición turística que se remonta más de 70 años, lo que le ha permitido consolidar una oferta para el turismo de naturaleza, turismo de bienestar, turismo de salud, turismo religioso y turismo gastronómico, que le han dado un renombre nacional e internacional, en especial por atractivos turísticos como las fuentes termales y el Chorizo Santarrosano, el cual fue reconocido por la asamblea del departamento de Risaralda en el mes de noviembre de 2018, como el plato típico del departamento.
+    p.mb-5(data-aos="fade-right") Santa Rosa de Cabal, se destaca por su tradición turística que se remonta más de 70 años, lo que le ha permitido consolidar una oferta para el turismo de naturaleza, bienestar, salud, religioso y gastronómico, que le han dado un renombre nacional e internacional, en especial por atractivos turísticos como las fuentes termales y el Chorizo Santarrosano, el cual fue reconocido por la asamblea del departamento de Risaralda en el mes de noviembre de 2018, como el plato típico del departamento.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-8.col-12.order-lg-1.order-2 
-        p Santa Rosa de Cabal se destaca dentro del país por ser uno de los 51 municipios que integran el área del Paisaje Cultural Cafetero PCC, declarado por la UNESCO como Patrimonio Cultural de la Humanidad. Dentro de su territorio, el municipio cuenta con 11 veredas en el área principal y 11 zonas más dentro del área de amortiguamiento del PCC (Paisaje Cultural Cafetero, 2018). Hoy por hoy, hace parte de los dos municipios turísticos de Risaralda que cuentan certificación en la Norma Técnica Sectorial Colombiana NTS TS 001-1 de sostenibilidad turística; por lo cual, hace parte del exclusivo grupo de los 14 destinos turísticos del país certificados como destino sostenible.
-        p Con relación a esto, ICTRC en el 2018 lo ubicó en el quinto nivel como destino turístico, dentro de los 83 a nivel nacional y en el segundo más competitivo en PCC según indicadores:
+        p Santa Rosa de Cabal se destaca dentro del país por ser uno de los 51 municipios que integran el área del Paisaje Cultural Cafetero PCC, declarado por la UNESCO como Patrimonio Cultural de la Humanidad. Dentro de su territorio, el municipio cuenta con 11 veredas en el área principal y 11 zonas más dentro del área de amortiguamiento del PCC (Paisaje Cultural Cafetero, 2018). Hoy por hoy, hace parte de los dos municipios turísticos de Risaralda que cuentan con certificación en la Norma Técnica Sectorial Colombiana NTS TS 001-1 de sostenibilidad turística; por lo cual, hace parte del exclusivo grupo de los 14 destinos turísticos del país certificados como destino sostenible.
+        p Con relación a esto, el Centro de Pensamiento Turístico de Colombia (ICTRC) en el 2018 lo ubicó en el quinto nivel como destino turístico, dentro de los 83 a nivel nacional y en el segundo más competitivo en PCC según indicadores:
       .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema3/img-04.svg', alt='Imagen decorativa')
@@ -140,7 +140,7 @@
                 span Descargar
                 i.fas.fa-file-download
     
-    p.mb-5(data-aos="fade-right") El PIT de Santa Rosa de Cabal dio del flujo de turistas que llegaron en 2018, representado así:
+    p.mb-5(data-aos="fade-right") El Punto de Información Turística (PIT) de Santa Rosa de Cabal dio del flujo de turistas que llegaron en 2018, representado así:
 
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
@@ -287,17 +287,17 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 11. ] #[i Atractivo que buscan los turistas y visitantes ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v11-01.svg', alt='Figura 11 que contiene una gráfica estadística, la cual relaciona los tipos de atractivos que buscan los turistas y visitantes en Santa Rosa de Cabal.')
+          img(src='@/assets/curso/temas/tema3/img-v11-01.svg', alt='Figura 11 que contiene una gráfica estadística, la cual relaciona los tipos de atractivos que buscan los turistas y visitantes en Santa Rosa de Cabal entre los años 2017-2018.')
 
       .col-md-6.movil(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 11. ] #[i Atractivo que buscan los turistas y visitantes ]
         figure
-          img(src='@/assets/curso/temas/tema3/img-v11-02.svg', alt='Figura 11 que contiene una gráfica estadística, la cual relaciona los tipos de atractivos que buscan los turistas y visitantes en Santa Rosa de Cabal.')
+          img(src='@/assets/curso/temas/tema3/img-v11-02.svg', alt='Figura 11 que contiene una gráfica estadística, la cual relaciona los tipos de atractivos que buscan los turistas y visitantes en Santa Rosa de Cabal entre los años 2017-2018.')
 
     .titulo1.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
-      h4.mb-0 Indicadores del 2021 Santa Rosa de cabal
+      h4.mb-0 Indicadores del 2019-2020 Santa Rosa de Cabal
 
     p.mb-5(data-aos="fade-right") En el año 2020 Santa Rosa de Cabal reafirmó su posición como el destino turístico, tras los resultados del Índice de Competitividad Turística Regional de Colombia ICTRC, donde el municipio ocupó el tercer lugar. De igual forma, Santa Rosa de Cabal se destaca como el municipio más competitivo del Paisaje Cultural Cafetero. Lo anterior se refleja a continuación:
 
@@ -318,7 +318,7 @@
 
     .titulo1.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
-      h4.mb-0 Indicadores del 2023 Santa Rosa de cabal
+      h4.mb-0 Indicadores del 2023 Santa Rosa de Cabal
 
     p.mb-5(data-aos="fade-right") Las empresas turísticas dentro del tejido empresarial del municipio entre el año 2015-2023 es de 466; para el año 2023, el municipio cuenta con 548. El mayor incremento interanual en el número de empresas de turismo, se observó entre el 2016 y el 2017 con un 11,3 % y el menor incremento se presentó entre el 2019 y el 2020 con un 0,2 %. Obteniendo lo siguiente:
 

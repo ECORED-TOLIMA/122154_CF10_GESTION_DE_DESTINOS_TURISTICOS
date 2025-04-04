@@ -20,7 +20,7 @@ export default {
       tema: 'Medición de impactos de productos turísticos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> apropiar los conocimientos adquiridos adquirido sobre los procesos llevados a cabo, para medir el impacto que se genera en los productos turísticos.',
+        '<b> Objetivo:</b> apropiar los conocimientos adquiridos sobre los procesos llevados a cabo, para medir el impacto que se genera en los productos turísticos.',
       barajarPreguntas: true,
       preguntas: [
         {

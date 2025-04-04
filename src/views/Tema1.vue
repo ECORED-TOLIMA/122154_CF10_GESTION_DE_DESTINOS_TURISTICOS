@@ -15,7 +15,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-02.png')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 La necesidad de medir los impactos de cada producto turístico, estriba fundamentalmente en el objeto, perseguido por cualquier plan de dinamización del turismo rural, ya que los distintos productos que potencialmente podrían incluirse en los mismos, no van a suponer a priori, una rentabilidad económica ni social en sí mismos, por lo que es conveniente realizar un análisis de impactos antes y después de su posible implementación. 
+        p.mb-0 La necesidad de medir los impactos de cada producto turístico, estriba fundamentalmente en el objeto, perseguido por cualquier plan de dinamización del turismo rural, ya que los distintos productos que potencialmente podrían incluirse en los mismos, no van a suponer a previamente, una rentabilidad económica ni social en sí mismos, por lo que es conveniente realizar un análisis de impactos antes y después de su posible implementación. 
 
     p(data-aos="fade-right") Como es lógico, no todos los impactos se pueden traducir en valor monetario y aquellos que se logren medir se podrían cuantificar vía precio, aunque mediante diferentes fórmulas fueran convertibles en valor social. Por último, en el supuesto de que así ocurriera, el impacto se debería relacionar con un periodo de tiempo, para establecerlo en parámetros comparativos sencillos.
     p.mb-5(data-aos="fade-right") El impacto del turismo puede ser analizado desde diversas dimensiones: económica, social, cultural y ambiental:

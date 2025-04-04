@@ -7,7 +7,7 @@
         span 2
       h1 Plan de acción
 
-    p(data-aos="fade-right") Un plan de acción de turismo, es un documento que define las acciones necesarias para mejorar y promover un destino turístico. Este plan incluye objetivos específicos, estrategias, recursos necesarios, cronogramas y responsables de llevar a cabo cada acción.
+    p(data-aos="fade-right") Es un documento que define las acciones necesarias para mejorar y promover un destino turístico. Este plan incluye objetivos específicos, estrategias, recursos necesarios, cronogramas y responsables de llevar a cabo cada acción.
     p.mb-5(data-aos="fade-right") Un plan de acción efectivo para medir los impactos del turismo debe incluir los siguientes pasos:
 
     .row.justify-content-center.mb-5
@@ -58,7 +58,7 @@
               img(src='@/assets/curso/temas/tema2/icono-06.svg' alt="Imagen decorativa")
             .col-lg-10
               .h4 Análisis de la situación
-              p.mb-1 Evaluación del estado actual del destino, incluyendo fortalezas, debilidades, oportunidades y amenazas (FODA).
+              p.mb-1 Evaluación del estado actual del destino, incluyendo Fortalezas, Oportunidades, Debilidades y Amenazas (FODA).
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-right")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -123,10 +123,10 @@
     .tarjeta.tarjeta--BG05.p-4.p-md-5.mb-5(data-aos="flip-up")
       .row.justify-content-center.mb-4
         .col-lg-9.col-12.order-lg-1.order-2 
-          p El sector turístico, es un vehículo excelente en el desarrollo sostenible y prosperidad para los países en vías de desarrollo; por lo tanto, es de especial consideración la planeación e implementación de estrategias que les permita prepararse y anticiparse, ante estos escenarios de gran trascendencia su subsistencia. 
+          p El sector turístico, es un vehículo excelente en el desarrollo sostenible y prosperidad para los países en vías de desarrollo; por lo tanto, es de especial consideración la planeación e implementación de estrategias que les permita prepararse y anticiparse, ante estos escenarios de gran trascendencia en su subsistencia. 
           p Una correcta planeación e implementación estratégica, le permite descubrir y aprovechar nuevas oportunidades que se presenten en el entorno y mitigar posibles impactos negativos en un corto, mediano y largo plazo.
           p Una estrategia, más que generar oportunidades, debe tener la capacidad, adaptabilidad y resiliencia para convertir desafíos en oportunidades de gran potencial para el desarrollo económico, social y medioambiental de cualquier destino. 
-          p Se deben identificar posibles líneas estratégicas que les permitan encauzar el comportamiento de todos los miembros de la organización, hacia un horizonte y visión compartida, con el fin de que puedan competir dentro de un entorno altamente competitivo, cambiante y digital.
+          p Se deben identificar posibles líneas estratégicas que les permitan encauzar el comportamiento de todos los miembros de la organización, hacia un horizonte y visión compartida, con el fin de que puedan medirse dentro de un entorno altamente competitivo, cambiante y digital.
           p Durante el proceso de planeación estratégica, es necesario desarrollar, las siguientes fases:
 
         .col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
@@ -146,7 +146,7 @@
           .tarjeta.color5(style= "width: 100%")
             .p-4
               p #[b 2- Análisis del general del entorno:]
-              p.mb-0 - Análisis sectorial del entorno.
+              p.mb-0 - Análisis sectorial.
               p - Análisis interno.
       .col-lg-4.col-lg.mb-4(data-aos="fade-right")
         .tarjeta-avatar

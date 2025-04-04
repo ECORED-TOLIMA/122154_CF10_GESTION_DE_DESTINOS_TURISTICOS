@@ -65,7 +65,7 @@
         ul.lista-ul
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
-            p.mb-0 #[b Percepción del destino ] <br/>Analiza cómo las campañas de marketing, afectan la imagen del destino entre los turistas y los residentes.
+            p.mb-0 #[b Percepción del destino ] <br/>Analiza cómo las campañas de <em>marketing,</em> afectan la imagen del destino entre los turistas y los residentes.
           li(data-aos="fade-down")
             i.fas.fa-circle(style="font-size:12px; color:#FFCE73")
             p.mb-0 #[b Cultura local ] <br/>Evalúa el impacto en la cultura local, como la preservación de tradiciones o la comercialización de cultura.

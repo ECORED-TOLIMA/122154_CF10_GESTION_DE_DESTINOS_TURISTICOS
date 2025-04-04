@@ -21,7 +21,7 @@
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
       h4.mb-0 Promoción de la sostenibilidad y la gestión responsable
 
-    p.mb-5(data-aos="fade-right") En los últimos años, los turistas y los destinos turísticos, se han vuelto cada vez más conscientes de los efectos negativos del turismo masivo; como lo es el deterioro ambiental, la sobrecarga de infraestructuras y la pérdida de identidad cultural. Como respuesta a esta preocupación, la medición de los impactos de los productos turísticos se ha convertido en una herramienta esencial para fomentar la sostenibilidad y una gestión responsable. Por lo anterior, que se detallan las siguientes oportunidades:
+    p.mb-5(data-aos="fade-right") En los últimos años, los turistas, se han vuelto cada vez más conscientes de los efectos negativos del turismo masivo; como lo es el deterioro ambiental, la sobrecarga de infraestructuras y la pérdida de identidad cultural. Como respuesta a esta preocupación, la medición de los impactos de los productos turísticos se ha convertido en una herramienta esencial para fomentar la sostenibilidad y una gestión responsable. Por lo anterior, se detallan las siguientes oportunidades:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -45,14 +45,14 @@
           figure
             img.img200(src='@/assets/curso/temas/tema6/icono-01.svg', alt='Imagen decorativa')
         .col-lg-9.mb-4.mb-lg-0
-          h3 Usar tecnologías de recopilación de datos
+          h5 Usar tecnologías de recopilación de datos
             p.mb-0 Como sensores en el destino, aplicaciones móviles y plataformas de monitoreo, para medir el comportamiento de los turistas, el uso de infraestructuras y la demanda de servicios. Con estos datos, se puede predecir patrones, ajustar la oferta turística y reducir impactos negativos, como la saturación de los destinos o la sobrecarga de ciertos servicios.
       .row(titulo="02")
         .col-lg-3.mb-3.mb-lg-0.col-6
           figure
             img.img200(src='@/assets/curso/temas/tema6/icono-02.svg', alt='Imagen decorativa')
         .col-lg-9.mb-4.mb-lg-0
-          h3 Implementar sistemas de gestión inteligente de destinos turísticos
+          h5 Implementar sistemas de gestión inteligente de destinos turísticos
             p.mb-0 Los cuales, a través de la recopilación de datos, optimicen la experiencia del turista (evitar largas filas, ajustar horarios de servicios) y gestionen los flujos de visitantes para reducir la masificación en zonas sensibles.
     
     .titulo1.mb-5(data-aos="zoom-in")
