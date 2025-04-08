@@ -299,7 +299,7 @@
       img(src='@/assets/curso/temas/tema1/icono.svg', alt='Imagen decorativa')
       h4.mb-0 Indicadores del 2019-2020 Santa Rosa de Cabal
 
-    p.mb-5(data-aos="fade-right") En el año 2019 Santa Rosa de Cabal reafirmó su posición como el destino turístico, tras los resultados del Índice de Competitividad Turística Regional de Colombia ICTRC, donde el municipio ocupó el tercer lugar. De igual forma, Santa Rosa de Cabal se destaca como el municipio más competitivo del Paisaje Cultural Cafetero. Lo anterior se refleja a continuación:
+    p.mb-5(data-aos="fade-right") En el año 2019-2020 Santa Rosa de Cabal reafirmó su posición como el destino turístico, tras los resultados del Índice de Competitividad Turística Regional de Colombia ICTRC, donde el municipio ocupó el tercer lugar. De igual forma, Santa Rosa de Cabal se destaca como el municipio más competitivo del Paisaje Cultural Cafetero. Lo anterior se refleja a continuación:
 
     .row.justify-content-center.mb-5
       .col-md-10.desktop(data-aos="zoom-in")
