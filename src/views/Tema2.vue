@@ -120,7 +120,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Implementación de estrategias
     
-    .tarjeta.tarjeta--BG05.p-4.p-md-5.mb-5(data-aos="flip-up")
+    .tarjeta.tarjeta--BG05.p-4.p-md-5.mb-2(data-aos="flip-up")
       .row.justify-content-center.mb-4
         .col-lg-9.col-12.order-lg-1.order-2 
           p El sector turístico, es un vehículo excelente en el desarrollo sostenible y prosperidad para los países en vías de desarrollo; por lo tanto, es de especial consideración la planeación e implementación de estrategias que les permita prepararse y anticiparse, ante estos escenarios de gran trascendencia en su subsistencia. 
@@ -203,6 +203,7 @@
               img.mb-3(src='@/assets/curso/temas/tema2/icono-017.svg')
             .col-lg-9
               p.mb-0 Es importante que el director de estrategia esté capacitado, posea las herramientas tecnológicas necesarias y las mejores prácticas directivas que le permitan tomar las mejores decisiones y motivar a los actores claves, para que apoyen su implementación.
+
 
 
 
