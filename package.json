@@ -1,6 +1,6 @@
 {
   "name": "SENA-2025",
-  "version": "1.0.0",
+  "version": "0.0.5",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
